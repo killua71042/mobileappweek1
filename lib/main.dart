@@ -4,7 +4,7 @@ import 'package:mobileappweek1/config/constant.dart';
 import 'package:mobileappweek1/screen/dashboard.dart';
 import 'package:mobileappweek1/screen/firebaselogin.dart';
 import 'package:mobileappweek1/screen/firebaseregister.dart';
-import 'package:mobileappweek1/screen/login.dart';
+//import 'package:mobileappweek1/screen/login.dart';
 import 'package:mobileappweek1/screen/packageimage.dart';
 import 'package:mobileappweek1/screen/packagelocation.dart';
 import 'package:mobileappweek1/screen/packagevideo.dart';
